@@ -1,0 +1,6 @@
+{
+  "name": "Brevard Shadow Atlas",
+  "description": "Interactive paranormal field atlas, supernatural archives, EMF detector, and classified investigation logs for Brevard County and Florida Space Coast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
